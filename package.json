@@ -1,0 +1,24 @@
+{
+  "name": "v-simple-tooltip",
+  "version": "1.0.0",
+  "description": "Simple tooltip plugin for Vue.js",
+  "main": "VSimpleTooltip.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulaeff/v-simple-tooltip.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "tooltip"
+  ],
+  "author": {
+    "name":"Sergey Tulaeff",
+    "email": "sergey@tulaeff.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tulaeff/v-simple-tooltip/issues"
+  },
+  "homepage": "https://github.com/tulaeff/v-simple-tooltip#readme"
+}
