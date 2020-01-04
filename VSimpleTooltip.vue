@@ -43,5 +43,6 @@
         background: white;
         border: 1px solid #AAAAAA;
         padding: 10px;
+        z-index: 100;
     }
 </style>
