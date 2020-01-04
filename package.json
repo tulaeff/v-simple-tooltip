@@ -1,6 +1,6 @@
 {
   "name": "v-simple-tooltip",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simple tooltip plugin for Vue.js",
   "main": "VSimpleTooltip.vue",
   "repository": {
