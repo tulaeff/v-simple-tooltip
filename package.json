@@ -1,24 +1,50 @@
 {
-  "name": "v-simple-tooltip",
-  "version": "1.1.0",
-  "description": "Simple tooltip plugin for Vue.js",
-  "main": "VSimpleTooltip.vue",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tulaeff/v-simple-tooltip.git"
+  "_from": "v-simple-tooltip@1.1.0",
+  "_id": "v-simple-tooltip@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-fKdBLp/Ht/HsKCcAya+IvS3eCniR9xNeW5L0wzrzOeccBdEBEdCHFUXsJaAW4m2yt1MuppcoalHT3h2Ix51kcA==",
+  "_location": "/v-simple-tooltip",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "v-simple-tooltip@1.1.0",
+    "name": "v-simple-tooltip",
+    "escapedName": "v-simple-tooltip",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/v-simple-tooltip/-/v-simple-tooltip-1.1.0.tgz",
+  "_shasum": "f8c643daa11ad517e05c744e71cfc7f5b328c9e6",
+  "_spec": "v-simple-tooltip@1.1.0",
+  "_where": "/var/www/newriver.loc",
+  "author": {
+    "name": "Sergey Tulaeff",
+    "email": "sergey@tulaeff.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/tulaeff/v-simple-tooltip/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple tooltip plugin for Vue.js",
+  "homepage": "https://github.com/tulaeff/v-simple-tooltip#readme",
   "keywords": [
     "vue",
     "vuejs",
     "tooltip"
   ],
-  "author": {
-    "name": "Sergey Tulaeff",
-    "email": "sergey@tulaeff.ru"
-  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tulaeff/v-simple-tooltip/issues"
+  "main": "VSimpleTooltip.vue",
+  "name": "v-simple-tooltip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulaeff/v-simple-tooltip.git"
   },
-  "homepage": "https://github.com/tulaeff/v-simple-tooltip#readme"
+  "version": "1.1.0"
 }
