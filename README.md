@@ -10,7 +10,7 @@ npm install --save v-simple-tooltip
 <table>
 	<tr>
 		<td @mouseover="show_tooltip = true"
-            @mouseleave="show_tooltip = false">
+			@mouseleave="show_tooltip = false">
             
             Some text
 
