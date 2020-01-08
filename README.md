@@ -39,6 +39,6 @@ npm install --save v-simple-tooltip
 </script>
 ```
 
---
+---
 
 LICENCE MIT - Created by Sergey Tulaeff (@tulaeff)
