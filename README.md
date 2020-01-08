@@ -7,21 +7,22 @@ npm install --save v-simple-tooltip
 ## Usage
 
 ```
-<table>
-	<tr>
-		<td @mouseover="show_tooltip = true"
-			@mouseleave="show_tooltip = false">
+<template>
+	<table>
+		<tr>
+			<td @mouseover="show_tooltip = true"
+				@mouseleave="show_tooltip = false">
             
-            Some text
+				Some text
 
-            <VSimpleTooltip
-                v-if="show_tooltip"
-                :content="tooltip_content"
-            ></VSimpleTooltip>
-		
-		</td>
-	</tr>
-</table>
+				<VSimpleTooltip
+					v-if="show_tooltip"
+					:content="tooltip_content"
+				></VSimpleTooltip>
+			</td>
+		</tr>
+	</table>
+</template>
 
 <script>
 	import VSimpleTooltip from 'v-simple-tooltip';
