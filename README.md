@@ -18,6 +18,10 @@ npm install --save v-simple-tooltip
         <VSimpleTooltip
           v-if="show_tooltip"
           :content="tooltip_content"
+          :style="{
+            'text-align': 'center',
+            'color': 'red'
+          }"
         ></VSimpleTooltip>
       </td>
     </tr>

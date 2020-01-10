@@ -3,7 +3,8 @@
         v-html="content"
         :style="{
             top,
-            left
+            left,
+            ...style
         }"
     ></div>
 </template>
@@ -11,7 +12,7 @@
 <script>
   export default {
     name: 'v-simple-tooltip',
-    props: ['content'],
+    props: ['content', 'style'],
     data() {
       return {
         parent_top: 0,
